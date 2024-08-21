@@ -1,0 +1,81 @@
+
+        html {
+            display: flex;
+            justify-content: center;
+            background-color: beige;
+            background-image: url("https://wallpapercave.com/wp/wp3172699.gif");
+
+
+        }
+
+        h1 {
+
+            text-align: center;
+            margin-left: 5rem;
+        }
+
+        .name {
+            margin-left: 3rem;
+        }
+
+        .container {
+
+            border: 10px solid;
+            width: 32rem;
+            margin-inline-start: 5rem;
+            height: 310px;
+            border-radius: 2rem;
+            padding-left: 5px;
+            background-repeat: no-repeat;
+            background-size: cover;
+
+
+
+
+
+        }
+
+        .container input {
+            border-radius: 2rem;
+            padding-left: 1rem;
+            margin-left: 1rem;
+            height: 17px;
+        }
+
+        .btn {
+            text-align: center;
+
+
+        }
+
+        .btn button {
+            border-radius: 2rem;
+            height: 30px;
+            width: 80px;
+            font-size: medium;
+
+
+
+        }
+
+        .name label {
+            padding-left: 7px;
+
+            display: inline;
+            margin-right: 3rem;
+        }
+
+        .input input {
+            width: 7.5rem;
+
+        }
+
+        .input,
+        .Gender,
+        .stud-id,
+        .stud-email,
+        .stud-pass {
+            padding: 15px;
+            padding-left: 5px;
+
+        }
